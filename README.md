@@ -1,7 +1,5 @@
 # Fullperm documents for Secondlife
 
-https://wiki.secondlife.com/wiki/Main_Page
-
 https://wiki.secondlife.com/wiki/Open_Source_Portal
 
 https://wiki.secondlife.com/wiki/LSL_Portal
