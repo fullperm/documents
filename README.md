@@ -1,2 +1,4 @@
-# documents
-Fullperm documents for Secondlife
+# Fullperm documents for Secondlife
+
+https://wiki.secondlife.com/wiki/Main_Page
+
