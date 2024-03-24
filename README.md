@@ -1,4 +1,4 @@
-# Fullperm documents for Secondlife
+# Fullperm documents for Secondlife & OpenSim
 
 https://wiki.secondlife.com/wiki/Open_Source_Portal
 
